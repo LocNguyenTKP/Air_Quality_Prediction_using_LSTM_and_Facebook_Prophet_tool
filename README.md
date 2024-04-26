@@ -1,3 +1,5 @@
+![image](https://github.com/LocNguyenTKP/Air_Quality_Prediction_using_LSTM_and_Facebook-s_Prophet_tool/assets/66542803/41e36239-2c1e-4ad8-857e-d8e582bbbcdd)
+
 # Air_Quality_Prediction_using_LSTM_and_Facebook-s_Prophet_tool
 
 ## Introduction
