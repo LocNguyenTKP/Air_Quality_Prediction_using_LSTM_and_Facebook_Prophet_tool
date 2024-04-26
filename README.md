@@ -39,4 +39,8 @@ Additionally, the notebook explores using Facebook's Prophet tool for forecastin
 The results of the predictions and forecasts are plotted to visualize the model's performance over time, comparing predicted values with actual data.
 ![image](https://github.com/LocNguyenTKP/Air_Quality_Prediction_using_LSTM_and_Facebook-s_Prophet_tool/assets/66542803/369feafd-13d8-4421-8e16-e2b00658e0c6)
 
+## Contributing
+Contributions to this project are welcome. Please fork the repository and submit a pull request with your suggested changes.
 
+## Contact
+For any queries or further collaboration, feel free to contact Loc Nguyen nguyenloctkp@gmail.com.
