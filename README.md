@@ -1,6 +1,6 @@
 ![image](https://github.com/LocNguyenTKP/Air_Quality_Prediction_using_LSTM_and_Facebook-s_Prophet_tool/assets/66542803/41e36239-2c1e-4ad8-857e-d8e582bbbcdd)
 
-# Air_Quality_Prediction_using_LSTM_and_Facebook_Prophet_tool
+# Air_Quality_Prediction_using_LSTM_and_Facebook_Prophet_tool 
 
 ## Introduction
 This repository uses an advanced Air Quality Prediction Model designed to help cities breathe easier :). Leveraging advanced Deep Learning models of LSTM (Long Short-Term Memory) networks and the intuitive capabilities of Facebook's Prophet tool. Air quality is a crucial environmental issue that impacts health, economic activity, and ecological balance. This model aims to forecast air quality accurately, enabling timely interventions for healthier urban living.
